@@ -8,6 +8,24 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/StarsBrawl/Scenes/MainMenu.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/StarsBrawl/Scenes/UserDetails.unity
+    guid: d35fcb7c3ef4b2c4598d83c24055a310
+  - enabled: 1
+    path: Assets/StarsBrawl/Scenes/MatchDetails.unity
+    guid: c0ef5e8cde3bf5c44935599488b6b388
+  - enabled: 1
+    path: Assets/StarsBrawl/Scenes/Login.unity
+    guid: d1a0cdca520953d4391b1352b46e0641
+  - enabled: 1
+    path: Assets/StarsBrawl/Scenes/Brawlers.unity
+    guid: 4c90ec1cd3989fb4bbdc629ea27a2781
+  - enabled: 1
+    path: Assets/StarsBrawl/Scenes/BrawlerDetails.unity
+    guid: ea115f995915fbb47b74bf5f5c3da782
+  - enabled: 1
+    path: Assets/StarsBrawl/Scenes/BattleLog.unity
+    guid: 271114fa115901343b6fa4af991e2ba6
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
